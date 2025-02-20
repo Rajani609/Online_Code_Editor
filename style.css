@@ -58,12 +58,15 @@ body{
     gap: 10px;
 
 }
+
 .right-head img{
     transition: all 0.5s;
-    cursor: pointer; 
+    cursor: pointer;
+    
 }
 .right-head img:hover{
     scale:120%;
+    
 }
 .code-editor textarea{
     width: 100%;
